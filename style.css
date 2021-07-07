@@ -6,7 +6,7 @@
 }
 .note{
     font-size: 15px;
-    color: rgb(255, 0, 0);
+    color: rgba(255, 0, 0, 0.863);
 }
 
 .footer{
@@ -18,3 +18,16 @@
     line-height: 3;
     text-align: center;
 }
+
+canvas{
+    border: 5px solid rgb(241, 1, 1);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(1, 255, 56);
+  
+  }
+
+  video{
+      border: 5px solid chocolate;
+      border-radius: 20px;
+  }
+
